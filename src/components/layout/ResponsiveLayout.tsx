@@ -25,7 +25,7 @@ export const ResponsiveLayout = ({ children }: ResponsiveLayoutProps) => {
             <div className="flex items-center gap-2 min-w-0 flex-1">
               <div className="w-8 h-8 md:w-10 md:h-10 rounded-lg border border-primary/20 bg-white dark:bg-card p-1 flex-shrink-0 shadow-sm">
                 <img
-                  src="/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png"
+                  src="/lovable-uploads/sualogo.png"
                   alt="Igor Queiroz Barbearia"
                   className="w-full h-full object-contain" />
                 
