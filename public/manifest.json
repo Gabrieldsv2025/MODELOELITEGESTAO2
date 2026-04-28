@@ -9,13 +9,13 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png",
+      "src": "/lovable-uploads/sualogo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png",
+      "src": "/lovable-uploads/sualogo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
