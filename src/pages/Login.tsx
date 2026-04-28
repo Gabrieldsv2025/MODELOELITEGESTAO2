@@ -194,7 +194,7 @@ export const Login = () => {
               <div className="text-center mb-8">
                 {/* Logo da Barbearia */}
                 <div className="w-32 h-32 mx-auto mb-6 animate-bounce-in">
-                  <img src="/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png" alt="Seu Nome" className="w-full h-full object-contain drop-shadow-xl" />
+                  <img src="/lovable-uploads/sualogo.png" alt="Seu Nome" className="w-full h-full object-contain drop-shadow-xl" />
                 </div>
                 <h1 className="text-2xl font-bold text-foreground mb-2 animate-fade-in" style={{
                 animationDelay: '0.2s'
