@@ -1,0 +1,51 @@
+{
+  "name": "Elite Gestão",
+  "short_name": "Barbearia ERP",
+  "description": "Sistema de gestão profissional",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030711",
+  "theme_color": "#FFD700",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "productivity", "finance"],
+  "lang": "pt-BR",
+  "scope": "/",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Clientes",
+      "short_name": "Clientes",
+      "description": "Gerenciar clientes",
+      "url": "/clientes",
+      "icons": [{ "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Vendas",
+      "short_name": "Vendas",
+      "description": "Registrar vendas",
+      "url": "/vendas",
+      "icons": [{ "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Relatórios",
+      "short_name": "Relatórios",
+      "description": "Ver relatórios",
+      "url": "/relatorios",
+      "icons": [{ "src": "/lovable-uploads/85865227-f6ae-4901-b782-2034c0187d48.png", "sizes": "96x96" }]
+    }
+  ]
+}
